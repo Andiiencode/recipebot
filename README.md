@@ -1,5 +1,13 @@
 # recipebot
 # Programa Python para crear un bot de recetas en Twitter/X.com
+## Tecnologías del proyecto
+* Publicación de tweets en Twitter/X.com a través de su API tweepy
+* Extracción de recetas e ingredientes de un csv de Kaggle
+* Conversión de la información en arrays de selección aleatoria para componer los mensajes
+* Utilización de la librería schedule para programar la ejecución del código diaria
+![daily_foodyou drawio](https://github.com/user-attachments/assets/f3345524-b2fb-4674-80b3-0e046fadf09a)
+
+## Ejemplo de Publicación
 ![ejemplo](https://github.com/user-attachments/assets/06d3f7a2-c4ce-41d3-a277-60738ae1df69)
 
 ## Tutorial para las claves
